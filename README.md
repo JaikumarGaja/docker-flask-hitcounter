@@ -16,5 +16,5 @@ The application uses two microservices:
 Ensure you have Docker and Docker Compose installed.
 
 1. Clone the repo: `git clone <repo-url>`
-2. Run the services: `docker-compose up --build`
+2. Run the services: `docker compose up --build`
 3. Access the app: Open `http://localhost:5000`
